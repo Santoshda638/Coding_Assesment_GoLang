@@ -1,9 +1,10 @@
-#Coding Assessment GoLang - All codes in single file main.go
+# Coding Assessment GoLang - All codes in single file main.go
 
-set GOPATH
+* set GOPATH
 
-To run the test cases
-go test
+## To run the test cases
+* go test
 
-To run main
-go run main.go
+## To run main
+
+* go run main.go
